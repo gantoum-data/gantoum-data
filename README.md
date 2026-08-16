@@ -1,12 +1,7 @@
-# 👋 Welcome to Gantoum Data Team!
+# 👋 Welcome to Gantoum Tech. Department!
 
 <br />
 
-We are a dedicated **Data Engineering & Analytics team** building reliable data pipelines, automating data workflows, integrating diverse data sources, and delivering actionable insights across Gantoum.
-
-Our expertise spans **Data Engineering, ETL/ELT, Data Warehousing, Business Intelligence, Analytics, and Machine Learning**.
-
----
 
 ## 📈 Contribution Graph
 
