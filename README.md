@@ -1,11 +1,5 @@
 # 👋 Welcome to Gantoum Data Team!
 
-<p align="center">
-  <a href="https://github.com/gantoum-data">
-    <strong>Gantoum Data - Engineering Excellence!</strong>
-  </a>
-</p>
-
 <br />
 
 We are a dedicated data engineering team building robust data pipelines, integrating diverse data sources, and delivering actionable insights.  
