@@ -1,4 +1,4 @@
-# 👋 Welcome to Gantoum Tech. Department!
+# Welcome to Gantoum Tech. Department!
 
 <br />
 
